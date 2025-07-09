@@ -24,3 +24,9 @@ Download the `.pbix` file and open it in Power BI Desktop. Use the buttons to to
 
 ## 🧑‍💻 Author
 Your Name – [LinkedIn Profile](https://www.linkedin.com/in/balan-pl/)
+
+## Screenshot
+
+![Dashboard](https://github.com/user-attachments/assets/fbde6606-5260-4ad7-82a9-2a8d8b3eddd0)
+![model view](https://github.com/user-attachments/assets/b040ed60-54d8-49d7-a091-4662e9dde5ec)
+
