@@ -7,7 +7,7 @@ This Power BI project analyzes chocolate sales, box shipments, costs, and profit
 - Power BI
 - DAX
 - Excel
-- 
+
 ## 📊 Key Features
 - Sales & Profit KPIs
 - Team vs Product performance toggle
